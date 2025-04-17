@@ -1,6 +1,6 @@
 {
     "general": {
-        "appTitle": "HaoSaoDe",
+        "appTitle": "逸尘",
         "reset": "重置",
         "toggle": {
             "enabled": "启用",
@@ -410,8 +410,11 @@
     "about": {
         "pageTitle": "关于",
         "version": "版本",
-        "termsAndConditions": "条款和条件",
-        "telegramChannel": "官网"
+        "sourceCode": "教程文档",
+        "telegramChannel": "官网",
+        "checkForUpdate": "检查更新",
+        "privacyPolicy": "隐私政策",
+        "termsAndConditions": "备用官网"
     },
     "appUpdate": {
         "notAvailableMsg": "已是最新版本",
