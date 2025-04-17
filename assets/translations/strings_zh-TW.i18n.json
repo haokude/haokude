@@ -239,11 +239,7 @@
   "about": {
     "pageTitle": "關於",
     "version": "版本",
-    "sourceCode": "原始碼",
-    "telegramChannel": "Telegram 頻道",
-    "checkForUpdate": "檢查更新",
-    "privacyPolicy": "隱私政策",
-    "termsAndConditions": "條款與條件"
+    "telegramChannel": "官網",
   },
   "appUpdate": {
     "notAvailableMsg": "已經是最新版本",
