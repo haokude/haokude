@@ -239,7 +239,7 @@
   "about": {
     "pageTitle": "關於",
     "version": "版本",
-    "telegramChannel": "官網",
+    "telegramChannel": "官網"
   },
   "appUpdate": {
     "notAvailableMsg": "已經是最新版本",
