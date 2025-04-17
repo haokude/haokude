@@ -410,7 +410,7 @@
     "about": {
         "pageTitle": "关于",
         "version": "版本",
-        "telegramChannel": "官网",
+        "telegramChannel": "官网"
     },
     "appUpdate": {
         "notAvailableMsg": "已是最新版本",
